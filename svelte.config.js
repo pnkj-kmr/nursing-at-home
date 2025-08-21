@@ -27,6 +27,10 @@ const config = {
         if (path === "/favicon.ico" || path === "/apple-touch-icon.png") {
           return;
         }
+        // Ignore base path errors
+        if (path === "/") {
+          return;
+        }
         throw new Error(message);
       },
       handleMissingId: ({ path, id, referrers, message }) => {
