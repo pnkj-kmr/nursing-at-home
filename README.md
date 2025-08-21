@@ -15,47 +15,6 @@ NursingAtHome.in provides professional nursing care services in the comfort of y
 - **Contact Forms**: Easy consultation requests
 - **Service Showcase**: Comprehensive service descriptions
 
-## 🚀 Tech Stack
-
-- **Frontend**: Svelte + SvelteKit
-- **Styling**: Tailwind CSS
-- **Build Tool**: Vite
-- **Package Manager**: pnpm
-- **Deployment**: Static site generation
-
-## 📋 Prerequisites
-
-- Node.js 18+ 
-- pnpm (recommended) or npm
-
-## 🛠️ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/nursing-at-home.git
-   cd nursing-at-home
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pnpm install
-   ```
-
-3. **Start development server**
-   ```bash
-   pnpm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5173`
-
-## 🏗️ Build for Production
-
-```bash
-pnpm run build
-```
-
-The built files will be in the `build` directory, ready for deployment.
 
 ## 📱 Pages & Sections
 
@@ -75,23 +34,6 @@ The built files will be in the `build` directory, ready for deployment.
 5. **Pediatric Care**: Child-specific nursing care
 6. **Emergency Response**: 24/7 emergency nursing services
 
-## 🎨 Customization
-
-### Colors
-The primary color scheme is defined in `tailwind.config.js`:
-- Primary: Blue shades (#0ea5e9)
-- Secondary: Gray shades
-- Custom button classes: `.btn-primary`, `.btn-secondary`
-
-### Typography
-- Font: Inter (Google Fonts)
-- Responsive text sizing with Tailwind utilities
-
-### Components
-Custom CSS classes in `src/app.css`:
-- `.section-padding`: Consistent section spacing
-- `.container-custom`: Max-width container
-- Button styles with hover effects
 
 ## 🔍 SEO Features
 
@@ -108,55 +50,6 @@ Custom CSS classes in `src/app.css`:
 - Breakpoints: sm (640px), md (768px), lg (1024px), xl (1280px)
 - Mobile navigation menu
 - Optimized layouts for all screen sizes
-
-## 🚀 Deployment
-
-### Static Hosting (Recommended)
-1. Build the project: `pnpm run build`
-2. Upload the `build` directory to your hosting provider
-3. Configure your domain (nursingathome.in)
-
-### Popular Hosting Options:
-- **Netlify**: Drag & drop deployment
-- **Vercel**: Git-based deployment
-- **GitHub Pages**: Free hosting for public repos
-- **AWS S3 + CloudFront**: Enterprise solution
-
-### Domain Configuration
-- Point your domain to your hosting provider
-- Update the canonical URLs in `src/routes/+layout.svelte`
-- Update the sitemap URL in `static/sitemap.xml`
-
-## 📊 Performance Optimization
-
-- **Code Splitting**: Automatic with SvelteKit
-- **Image Optimization**: Use WebP format when possible
-- **CSS Purging**: Tailwind automatically removes unused styles
-- **Lazy Loading**: Implement for images if needed
-
-## 🔧 Development
-
-### File Structure
-```
-src/
-├── app.css          # Global styles and Tailwind imports
-├── routes/
-│   ├── +layout.svelte  # Main layout with navigation
-│   └── +page.svelte    # Homepage content
-static/
-├── robots.txt       # Search engine instructions
-└── sitemap.xml      # Site structure for SEO
-```
-
-### Adding New Pages
-1. Create new `.svelte` files in `src/routes/`
-2. Add navigation links in `+layout.svelte`
-3. Update sitemap.xml if needed
-
-### Styling Guidelines
-- Use Tailwind utility classes for consistent styling
-- Create custom components in `app.css` for reusable styles
-- Follow mobile-first responsive design principles
 
 ## 📞 Contact Information
 
