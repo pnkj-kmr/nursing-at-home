@@ -6,7 +6,7 @@
       <span class="text-blue-600 block">at Your Home</span>
     </h1>
     <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-      Get expert nursing care in the comfort of your own home. Our qualified nurses provide 24/7 care, 
+      Get expert nursing care in Gurgaon and Delhi NCR in the comfort of your own home. Our qualified nurses provide 24/7 care, 
       elderly care, post-surgery care, and medical assistance when you need it most.
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
@@ -40,9 +40,9 @@
 <section id="services" class="section-padding bg-white">
   <div class="container-custom">
     <div class="text-center mb-16">
-      <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Our Nursing Services</h2>
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Our Nursing Services in Gurgaon & Delhi</h2>
       <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-        Comprehensive healthcare services tailored to meet your specific needs in the comfort of your home
+        Comprehensive healthcare services tailored to meet your specific needs in the comfort of your home across Gurgaon and Delhi NCR
       </p>
     </div>
     
@@ -257,6 +257,87 @@
   </div>
 </section>
 
+<!-- Location-Specific Section -->
+<section class="section-padding bg-blue-50">
+  <div class="container-custom">
+    <div class="text-center mb-16">
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Professional Nursing Care Services in Gurgaon & Delhi NCR</h2>
+      <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+        Trusted by hundreds of families across Gurgaon and Delhi for quality home healthcare services
+      </p>
+    </div>
+    
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+      <div>
+        <h3 class="text-2xl font-bold text-gray-900 mb-6">Serving Gurgaon Areas</h3>
+        <div class="grid grid-cols-2 gap-4">
+          <div class="bg-white rounded-lg p-4 shadow-sm">
+            <h4 class="font-semibold text-gray-900 mb-2">Sector 14-57</h4>
+            <p class="text-gray-600 text-sm">Golf Course Road, Cyber Hub, DLF Phase 1-5</p>
+          </div>
+          <div class="bg-white rounded-lg p-4 shadow-sm">
+            <h4 class="font-semibold text-gray-900 mb-2">New Gurgaon</h4>
+            <p class="text-gray-600 text-sm">Sector 58-115, Sohna Road, SPR</p>
+          </div>
+          <div class="bg-white rounded-lg p-4 shadow-sm">
+            <h4 class="font-semibold text-gray-900 mb-2">Old Gurgaon</h4>
+            <p class="text-gray-600 text-sm">Civil Lines, Jacobpura, Sadar Bazaar</p>
+          </div>
+          <div class="bg-white rounded-lg p-4 shadow-sm">
+            <h4 class="font-semibold text-gray-900 mb-2">Manesar</h4>
+            <p class="text-gray-600 text-sm">IMT Manesar, Sector 1-8</p>
+          </div>
+        </div>
+      </div>
+      
+      <div>
+        <h3 class="text-2xl font-bold text-gray-900 mb-6">Serving Delhi NCR Areas</h3>
+        <div class="grid grid-cols-2 gap-4">
+          <div class="bg-white rounded-lg p-4 shadow-sm">
+            <h4 class="font-semibold text-gray-900 mb-2">South Delhi</h4>
+            <p class="text-gray-600 text-sm">Vasant Kunj, Saket, Greater Kailash</p>
+          </div>
+          <div class="bg-white rounded-lg p-4 shadow-sm">
+            <h4 class="font-semibold text-gray-900 mb-2">West Delhi</h4>
+            <p class="text-gray-600 text-sm">Dwarka, Janakpuri, Rajouri Garden</p>
+          </div>
+          <div class="bg-white rounded-lg p-4 shadow-sm">
+            <h4 class="font-semibold text-gray-900 mb-2">Central Delhi</h4>
+            <p class="text-gray-600 text-sm">Connaught Place, Karol Bagh</p>
+          </div>
+          <div class="bg-white rounded-lg p-4 shadow-sm">
+            <h4 class="font-semibold text-gray-900 mb-2">East Delhi</h4>
+            <p class="text-gray-600 text-sm">Laxmi Nagar, Preet Vihar, Mayur Vihar</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="text-center mt-12">
+      <div class="bg-white rounded-xl p-8 shadow-lg max-w-4xl mx-auto">
+        <h3 class="text-2xl font-bold text-gray-900 mb-4">Why Choose Home Nursing Care in Gurgaon & Delhi?</h3>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-left">
+          <div>
+            <div class="text-blue-600 text-4xl mb-3">🚗</div>
+            <h4 class="font-semibold text-gray-900 mb-2">Quick Response Time</h4>
+            <p class="text-gray-600 text-sm">Our nurses can reach you within 2-4 hours across Gurgaon and Delhi NCR</p>
+          </div>
+          <div>
+            <div class="text-blue-600 text-4xl mb-3">💰</div>
+            <h4 class="font-semibold text-gray-900 mb-2">Cost-Effective Care</h4>
+            <p class="text-gray-600 text-sm">50-70% more affordable than hospital stays, with insurance support</p>
+          </div>
+          <div>
+            <div class="text-blue-600 text-4xl mb-3">👨‍⚕️</div>
+            <h4 class="font-semibold text-gray-900 mb-2">Local Expertise</h4>
+            <p class="text-gray-600 text-sm">Our nurses are familiar with local hospitals and healthcare facilities</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- About Section -->
 <section id="about" class="section-padding bg-white">
   <div class="container-custom">
@@ -332,6 +413,84 @@
   </div>
 </section>
 
+<!-- FAQ Section -->
+<section class="section-padding bg-gray-50">
+  <div class="container-custom">
+    <div class="text-center mb-16">
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Frequently Asked Questions</h2>
+      <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+        Common questions about our nursing care at home services in Gurgaon and Delhi
+      </p>
+    </div>
+    
+    <div class="max-w-4xl mx-auto space-y-6">
+      <div class="bg-white rounded-lg p-8 shadow-sm">
+        <h3 class="text-xl font-semibold text-gray-900 mb-4">
+          How much does nursing care at home cost in Gurgaon and Delhi?
+        </h3>
+        <p class="text-gray-600">
+          Our home nursing care services start from ₹1,500 per day for basic care and ₹2,500 per day for specialized care. 
+          This is 50-70% more affordable than hospital stays. We offer flexible pricing plans based on your specific needs 
+          and accept most insurance policies.
+        </p>
+      </div>
+      
+      <div class="bg-white rounded-lg p-8 shadow-sm">
+        <h3 class="text-xl font-semibold text-gray-900 mb-4">
+          What qualifications do your nurses have?
+        </h3>
+        <p class="text-gray-600">
+          All our nurses are BSc/MSc Nursing qualified, registered with the Nursing Council of India, and have minimum 
+          3 years of experience. They undergo regular training in the latest healthcare practices and are background verified 
+          for your safety and peace of mind.
+        </p>
+      </div>
+      
+      <div class="bg-white rounded-lg p-8 shadow-sm">
+        <h3 class="text-xl font-semibold text-gray-900 mb-4">
+          How quickly can you provide nursing care in Gurgaon and Delhi?
+        </h3>
+        <p class="text-gray-600">
+          We can provide nursing care within 2-4 hours of your request across Gurgaon and Delhi NCR. For emergency situations, 
+          our rapid response team is available 24/7 and can reach you within 1-2 hours depending on your location.
+        </p>
+      </div>
+      
+      <div class="bg-white rounded-lg p-8 shadow-sm">
+        <h3 class="text-xl font-semibold text-gray-900 mb-4">
+          Do you provide 24/7 nursing care services?
+        </h3>
+        <p class="text-gray-600">
+          Yes, we provide round-the-clock nursing care services. You can choose from 8-hour, 12-hour, or 24-hour shifts 
+          based on your requirements. Our nurses work in rotating shifts to ensure continuous care without any gaps.
+        </p>
+      </div>
+      
+      <div class="bg-white rounded-lg p-8 shadow-sm">
+        <h3 class="text-xl font-semibold text-gray-900 mb-4">
+          What medical conditions do you provide care for?
+        </h3>
+        <p class="text-gray-600">
+          We provide specialized nursing care for elderly patients, post-surgery recovery, chronic diseases (diabetes, 
+          hypertension, COPD), stroke rehabilitation, palliative care, wound care, medication management, and pediatric care. 
+          Our nurses are trained to handle various medical equipment and procedures.
+        </p>
+      </div>
+      
+      <div class="bg-white rounded-lg p-8 shadow-sm">
+        <h3 class="text-xl font-semibold text-gray-900 mb-4">
+          Do you coordinate with doctors and hospitals?
+        </h3>
+        <p class="text-gray-600">
+          Yes, our nurses work closely with your treating doctors and maintain detailed care reports. We coordinate with 
+          leading hospitals in Gurgaon and Delhi including Medanta, Fortis, Max Healthcare, and AIIMS for seamless 
+          healthcare management.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- Contact Section -->
 <section id="contact" class="section-padding bg-gray-50">
   <div class="container-custom">
@@ -382,7 +541,7 @@
             </div>
             <div>
               <h4 class="font-semibold text-gray-900">Service Areas</h4>
-              <p class="text-gray-600">Mumbai, Delhi, Bangalore, Chennai</p>
+              <p class="text-gray-600">Gurugram and Delhi</p>
               <p class="text-gray-600">And surrounding areas</p>
             </div>
           </div>

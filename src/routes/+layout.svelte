@@ -14,24 +14,24 @@
 </script>
 
 <svelte:head>
-  <title>Nursing at Home - Professional Home Healthcare Services | nursingathome.in</title>
-  <meta name="description" content="Professional nursing care at home services. Qualified nurses, 24/7 care, elderly care, post-surgery care, and medical assistance in the comfort of your home." />
-  <meta name="keywords" content="nursing care at home, home healthcare, elderly care, post-surgery care, medical nursing, home nurse, healthcare services" />
+  <title>Nursing Care at Home in Gurgaon & Delhi | 24/7 Home Healthcare Services | nursingathome.in</title>
+  <meta name="description" content="Professional nursing care at home services in Gurgaon and Delhi NCR. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management. Call +91-96500-97115 for immediate assistance." />
+  <meta name="keywords" content="nursing care at home Gurgaon, home healthcare Delhi, elderly care Gurgaon, post-surgery care Delhi, nursing services NCR, home nurse Delhi, healthcare at home Gurgaon, certified nurses, 24/7 care" />
   <meta name="author" content="Nursing at Home" />
   <meta name="robots" content="index, follow" />
   
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://nursingathome.in/" />
-  <meta property="og:title" content="Nursing at Home - Professional Home Healthcare Services" />
-  <meta property="og:description" content="Professional nursing care at home services. Qualified nurses, 24/7 care, elderly care, post-surgery care, and medical assistance in the comfort of your home." />
+  <meta property="og:title" content="Nursing Care at Home in Gurgaon & Delhi - Professional Home Healthcare Services" />
+  <meta property="og:description" content="Professional nursing care at home services in Gurgaon and Delhi NCR. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management." />
   <meta property="og:image" content="https://nursingathome.in/og-image.jpg" />
   
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
   <meta property="twitter:url" content="https://nursingathome.in/" />
-  <meta property="twitter:title" content="Nursing at Home - Professional Home Healthcare Services" />
-  <meta property="twitter:description" content="Professional nursing care at home services. Qualified nurses, 24/7 care, elderly care, post-surgery care, and medical assistance in the comfort of your home." />
+  <meta property="twitter:title" content="Nursing Care at Home in Gurgaon & Delhi - Professional Home Healthcare Services" />
+  <meta property="twitter:description" content="Professional nursing care at home services in Gurgaon and Delhi NCR. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management." />
   <meta property="twitter:image" content="https://nursingathome.in/og-image.jpg" />
   
   <!-- Favicon -->
