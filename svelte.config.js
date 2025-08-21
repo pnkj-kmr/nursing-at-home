@@ -18,6 +18,9 @@ const config = {
       precompress: false,
       strict: false,
     }),
+    paths: {
+      base: "/nursing-at-home",
+    },
     prerender: {
       handleHttpError: ({ path, referrer, message }) => {
         // Ignore favicon and apple-touch-icon 404s
