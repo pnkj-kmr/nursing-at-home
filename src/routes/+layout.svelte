@@ -1,5 +1,8 @@
 <script>
   import '../app.css';
+  import '../lib/i18n';
+  import LanguageSwitcher from '$lib/components/LanguageSwitcher.svelte';
+  import { t } from '$lib/i18n';
   
   // Mobile menu functionality
   let mobileMenuOpen = false;
@@ -14,24 +17,24 @@
 </script>
 
 <svelte:head>
-  <title>Nursing Care at Home in Gurgaon & Delhi | 24/7 Home Healthcare Services | nursingathome.in</title>
-  <meta name="description" content="Professional nursing care at home services in Gurgaon and Delhi NCR. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management. Call +91-96500-97115 for immediate assistance." />
-  <meta name="keywords" content="nursing care at home Gurgaon, home healthcare Delhi, elderly care Gurgaon, post-surgery care Delhi, nursing services NCR, home nurse Delhi, healthcare at home Gurgaon, certified nurses, 24/7 care" />
-  <meta name="author" content="Nursing at Home" />
+  <title>{$t.meta.title}</title>
+  <meta name="description" content={$t.meta.description} />
+  <meta name="keywords" content={$t.meta.keywords} />
+  <meta name="author" content={$t.meta.author} />
   <meta name="robots" content="index, follow" />
   
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://nursingathome.in/" />
-  <meta property="og:title" content="Nursing Care at Home in Gurgaon & Delhi - Professional Home Healthcare Services" />
-  <meta property="og:description" content="Professional nursing care at home services in Gurgaon and Delhi NCR. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management." />
+  <meta property="og:url" content={$t.meta.canonical} />
+  <meta property="og:title" content={$t.meta.ogTitle} />
+  <meta property="og:description" content={$t.meta.ogDescription} />
   <meta property="og:image" content="https://nursingathome.in/og-image.jpg" />
   
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="https://nursingathome.in/" />
-  <meta property="twitter:title" content="Nursing Care at Home in Gurgaon & Delhi - Professional Home Healthcare Services" />
-  <meta property="twitter:description" content="Professional nursing care at home services in Gurgaon and Delhi NCR. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management." />
+  <meta property="twitter:url" content={$t.meta.canonical} />
+  <meta property="twitter:title" content={$t.meta.ogTitle} />
+  <meta property="twitter:description" content={$t.meta.ogDescription} />
   <meta property="twitter:image" content="https://nursingathome.in/og-image.jpg" />
   
   <!-- Favicon -->
@@ -39,21 +42,22 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   
   <!-- Canonical URL -->
-  <link rel="canonical" href="https://nursingathome.in/" />
+  <link rel="canonical" href={$t.meta.canonical} />
 </svelte:head>
 
 <header class="bg-white shadow-sm sticky top-0 z-50">
   <nav class="container-custom">
     <div class="flex items-center justify-between h-16 px-2">
       <div class="flex items-center">
-        <a href="/" class="text-2xl font-bold text-blue-600">NursingAtHome.in</a>
+        <a href="/" class="text-2xl font-bold text-blue-600">{$t.nav.brand}</a>
       </div>
       
       <div class="hidden md:flex items-center space-x-8">
-        <a href="#services" class="text-gray-700 hover:text-blue-600 transition-colors">Services</a>
-        <a href="#about" class="text-gray-700 hover:text-blue-600 transition-colors">About</a>
-        <a href="#contact" class="text-gray-700 hover:text-blue-600 transition-colors">Contact</a>
-        <a href="#contact" class="btn-primary">Get Started</a>
+        <a href="#services" class="text-gray-700 hover:text-blue-600 transition-colors">{$t.nav.services}</a>
+        <a href="#about" class="text-gray-700 hover:text-blue-600 transition-colors">{$t.nav.about}</a>
+        <a href="#contact" class="text-gray-700 hover:text-blue-600 transition-colors">{$t.nav.contact}</a>
+        <LanguageSwitcher />
+        <a href="#contact" class="btn-primary">{$t.nav.getStarted}</a>
       </div>
       
       <!-- Mobile menu button -->
@@ -67,10 +71,13 @@
     <!-- Mobile menu -->
     <div class="md:hidden {mobileMenuOpen ? '' : 'hidden'}" id="mobile-menu">
       <div class="px-2 pt-2 pb-3 space-y-1 bg-white border-t">
-        <a href="#services" class="block px-3 py-2 text-gray-700 hover:text-blue-600" on:click={closeMobileMenu}>Services</a>
-        <a href="#about" class="block px-3 py-2 text-gray-700 hover:text-blue-600" on:click={closeMobileMenu}>About</a>
-        <a href="#contact" class="block px-3 py-2 text-gray-700 hover:text-blue-600" on:click={closeMobileMenu}>Contact</a>
-        <a href="#contact" class="block px-3 py-2 btn-primary text-center" on:click={closeMobileMenu}>Get Started</a>
+        <a href="#services" class="block px-3 py-2 text-gray-700 hover:text-blue-600" on:click={closeMobileMenu}>{$t.nav.services}</a>
+        <a href="#about" class="block px-3 py-2 text-gray-700 hover:text-blue-600" on:click={closeMobileMenu}>{$t.nav.about}</a>
+        <a href="#contact" class="block px-3 py-2 text-gray-700 hover:text-blue-600" on:click={closeMobileMenu}>{$t.nav.contact}</a>
+        <div class="px-3 py-2">
+          <LanguageSwitcher />
+        </div>
+        <a href="#contact" class="block px-3 py-2 btn-primary text-center" on:click={closeMobileMenu}>{$t.nav.getStarted}</a>
       </div>
     </div>
   </nav>
@@ -84,22 +91,22 @@
   <div class="container-custom section-padding">
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
       <div>
-        <h3 class="text-xl font-bold text-blue-400 mb-4">NursingAtHome.in</h3>
-        <p class="text-gray-300">Professional healthcare services in the comfort of your home.</p>
+        <h3 class="text-xl font-bold text-blue-400 mb-4">{$t.nav.brand}</h3>
+        <p class="text-gray-300">{$t.footer.tagline}</p>
       </div>
       
       <div>
-        <h4 class="font-semibold mb-4">Services</h4>
+        <h4 class="font-semibold mb-4">{$t.footer.services}</h4>
         <ul class="space-y-2 text-gray-300">
-          <li><a href="#elderly-care" class="hover:text-blue-400">Elderly Care</a></li>
-          <li><a href="#post-surgery" class="hover:text-blue-400">Post-Surgery Care</a></li>
-          <li><a href="#chronic-care" class="hover:text-blue-400">Chronic Disease Care</a></li>
-          <li><a href="#palliative" class="hover:text-blue-400">Palliative Care</a></li>
+          <li><a href="#elderly-care" class="hover:text-blue-400">{$t.footer.elderlyCare}</a></li>
+          <li><a href="#post-surgery" class="hover:text-blue-400">{$t.footer.postSurgery}</a></li>
+          <li><a href="#chronic-care" class="hover:text-blue-400">{$t.footer.chronicCare}</a></li>
+          <li><a href="#palliative" class="hover:text-blue-400">{$t.footer.palliative}</a></li>
         </ul>
       </div>
       
       <div>
-        <h4 class="font-semibold mb-4">Contact</h4>
+        <h4 class="font-semibold mb-4">{$t.footer.contact}</h4>
         <ul class="space-y-2 text-gray-300">
           <li>📞 +91-96500 97115</li>
           <li>📧 info@nursingathome.in</li>
@@ -108,7 +115,7 @@
       </div>
       
       <div>
-        <h4 class="font-semibold mb-4">Follow Us</h4>
+        <h4 class="font-semibold mb-4">{$t.footer.followUs}</h4>
         <div class="flex space-x-4">
           <a href="https://nursingathome.in" class="text-gray-300 hover:text-blue-400" aria-label="Follow us on Twitter">
             <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -125,7 +132,7 @@
     </div>
     
     <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-      <p>&copy; 2024 NursingAtHome.in. All rights reserved. | Professional Home Healthcare Services</p>
+      <p>{$t.footer.copyright}</p>
     </div>
   </div>
 </footer>

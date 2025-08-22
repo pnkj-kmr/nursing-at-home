@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "title": "Nursing Care at Home in Gurgaon & Delhi | 24/7 Home Healthcare Services | nursingathome.in",
+    "description": "Professional nursing care at home services in Gurgaon and Delhi NCR. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management. Call +91-96500-97115 for immediate assistance.",
+    "keywords": "nursing care at home Gurgaon, home healthcare Delhi, elderly care Gurgaon, post-surgery care Delhi, nursing services NCR, home nurse Delhi, healthcare at home Gurgaon, certified nurses, 24/7 care",
+    "author": "Nursing at Home",
+    "ogTitle": "Nursing Care at Home in Gurgaon & Delhi - Professional Home Healthcare Services",
+    "ogDescription": "Professional nursing care at home services in Gurgaon and Delhi NCR. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management.",
+    "canonical": "https://nursingathome.in/"
+  },
+  "nav": {
+    "brand": "NursingAtHome.in",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Professional Nursing Care",
+    "subtitle": "at Your Home",
+    "description": "Get expert nursing care in Gurgaon and Delhi NCR in the comfort of your own home. Our qualified nurses provide 24/7 care, elderly care, post-surgery care, and medical assistance when you need it most.",
+    "getStarted": "Get Started Today",
+    "viewServices": "View Services",
+    "stats": {
+      "families": "Happy Families",
+      "care": "Care Available",
+      "nurses": "Expert Nurses",
+      "experience": "Years Experience"
+    }
+  },
+  "services": {
+    "title": "Our Nursing Services in Gurgaon & Delhi",
+    "subtitle": "Comprehensive healthcare services tailored to meet your specific needs in the comfort of your home across Gurgaon and Delhi NCR",
+    "elderlyCare": {
+      "title": "Elderly Care",
+      "description": "Specialized care for seniors including medication management, personal hygiene, mobility assistance, and companionship to ensure their comfort and well-being.",
+      "features": [
+        "Medication management",
+        "Personal hygiene assistance",
+        "Mobility and fall prevention",
+        "Companionship and emotional support"
+      ]
+    },
+    "postSurgery": {
+      "title": "Post-Surgery Care",
+      "description": "Professional post-operative care including wound care, medication administration, physical therapy support, and recovery monitoring.",
+      "features": [
+        "Wound care and dressing changes",
+        "Pain management",
+        "Physical therapy assistance",
+        "Recovery progress monitoring"
+      ]
+    },
+    "chronicCare": {
+      "title": "Chronic Disease Care",
+      "description": "Ongoing care for chronic conditions like diabetes, heart disease, COPD, and other long-term health conditions with regular monitoring and support.",
+      "features": [
+        "Diabetes management",
+        "Blood pressure monitoring",
+        "Medication compliance",
+        "Lifestyle guidance"
+      ]
+    },
+    "palliative": {
+      "title": "Palliative Care",
+      "description": "Compassionate end-of-life care focusing on comfort, pain management, and emotional support for patients and their families.",
+      "features": [
+        "Pain and symptom management",
+        "Emotional and spiritual support",
+        "Family counseling",
+        "Comfort-focused care"
+      ]
+    },
+    "pediatric": {
+      "title": "Pediatric Care",
+      "description": "Specialized nursing care for children including medication administration, feeding assistance, and developmental support.",
+      "features": [
+        "Child-friendly care approach",
+        "Feeding and nutrition support",
+        "Developmental monitoring",
+        "Family education"
+      ]
+    },
+    "emergency": {
+      "title": "Emergency Response",
+      "description": "24/7 emergency nursing response for urgent medical situations with rapid assessment and immediate care coordination.",
+      "features": [
+        "Rapid response team",
+        "Emergency assessment",
+        "Care coordination",
+        "Hospital liaison"
+      ]
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose NursingAtHome.in?",
+    "subtitle": "We provide the highest quality home healthcare services with qualified professionals",
+    "qualifiedNurses": {
+      "title": "Qualified Nurses",
+      "description": "All our nurses are certified, experienced, and undergo regular training to provide the best care."
+    },
+    "availability": {
+      "title": "24/7 Availability",
+      "description": "Round-the-clock care available whenever you need it, with rapid response times."
+    },
+    "personalized": {
+      "title": "Personalized Care",
+      "description": "Customized care plans tailored to your specific needs and medical requirements."
+    },
+    "homeComfort": {
+      "title": "Home Comfort",
+      "description": "Receive professional care in the familiar and comfortable environment of your own home."
+    },
+    "costEffective": {
+      "title": "Cost Effective",
+      "description": "Affordable healthcare solutions that save you money compared to hospital stays."
+    },
+    "familySupport": {
+      "title": "Family Support",
+      "description": "We provide education and support to family members to ensure the best care outcomes."
+    }
+  },
+  "locations": {
+    "title": "Professional Nursing Care Services in Gurgaon & Delhi NCR",
+    "subtitle": "Trusted by hundreds of families across Gurgaon and Delhi for quality home healthcare services",
+    "gurgaon": {
+      "title": "Serving Gurgaon Areas",
+      "sectors": {
+        "sector14to57": {
+          "title": "Sector 14-57",
+          "description": "Golf Course Road, Cyber Hub, DLF Phase 1-5"
+        },
+        "newGurgaon": {
+          "title": "New Gurgaon",
+          "description": "Sector 58-115, Sohna Road, SPR"
+        },
+        "oldGurgaon": {
+          "title": "Old Gurgaon",
+          "description": "Civil Lines, Jacobpura, Sadar Bazaar"
+        },
+        "manesar": {
+          "title": "Manesar",
+          "description": "IMT Manesar, Sector 1-8"
+        }
+      }
+    },
+    "delhi": {
+      "title": "Serving Delhi NCR Areas",
+      "areas": {
+        "southDelhi": {
+          "title": "South Delhi",
+          "description": "Vasant Kunj, Saket, Greater Kailash"
+        },
+        "westDelhi": {
+          "title": "West Delhi",
+          "description": "Dwarka, Janakpuri, Rajouri Garden"
+        },
+        "centralDelhi": {
+          "title": "Central Delhi",
+          "description": "Connaught Place, Karol Bagh"
+        },
+        "eastDelhi": {
+          "title": "East Delhi",
+          "description": "Laxmi Nagar, Preet Vihar, Mayur Vihar"
+        }
+      }
+    },
+    "benefits": {
+      "title": "Why Choose Home Nursing Care in Gurgaon & Delhi?",
+      "quickResponse": {
+        "title": "Quick Response Time",
+        "description": "Our nurses can reach you within 2-4 hours across Gurgaon and Delhi NCR"
+      },
+      "costEffective": {
+        "title": "Cost-Effective Care",
+        "description": "50-70% more affordable than hospital stays, with insurance support"
+      },
+      "localExpertise": {
+        "title": "Local Expertise",
+        "description": "Our nurses are familiar with local hospitals and healthcare facilities"
+      }
+    }
+  },
+  "about": {
+    "title": "About NursingAtHome.in",
+    "description1": "We are a dedicated team of healthcare professionals committed to providing exceptional nursing care services in the comfort of your home. Our mission is to enhance the quality of life for our patients while supporting their families through compassionate, professional care.",
+    "description2": "With years of experience in home healthcare, we understand the unique challenges families face when caring for loved ones. Our qualified nurses are trained to handle various medical conditions and provide personalized care plans that meet individual needs.",
+    "stats": {
+      "satisfaction": "Satisfaction Rate",
+      "experience": "Years Experience"
+    },
+    "commitment": {
+      "title": "Our Commitment",
+      "professional": {
+        "title": "Professional Excellence",
+        "description": "Certified nurses with ongoing training"
+      },
+      "compassionate": {
+        "title": "Compassionate Care",
+        "description": "Treating patients like family"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Always here when you need us"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our nursing care at home services in Gurgaon and Delhi",
+    "cost": {
+      "question": "How much does nursing care at home cost in Gurgaon and Delhi?",
+      "answer": "Our home nursing care services start from ₹1,500 per day for basic care and ₹2,500 per day for specialized care. This is 50-70% more affordable than hospital stays. We offer flexible pricing plans based on your specific needs and accept most insurance policies."
+    },
+    "qualifications": {
+      "question": "What qualifications do your nurses have?",
+      "answer": "All our nurses are BSc/MSc Nursing qualified, registered with the Nursing Council of India, and have minimum 3 years of experience. They undergo regular training in the latest healthcare practices and are background verified for your safety and peace of mind."
+    },
+    "responseTime": {
+      "question": "How quickly can you provide nursing care in Gurgaon and Delhi?",
+      "answer": "We can provide nursing care within 2-4 hours of your request across Gurgaon and Delhi NCR. For emergency situations, our rapid response team is available 24/7 and can reach you within 1-2 hours depending on your location."
+    },
+    "availability": {
+      "question": "Do you provide 24/7 nursing care services?",
+      "answer": "Yes, we provide round-the-clock nursing care services. You can choose from 8-hour, 12-hour, or 24-hour shifts based on your requirements. Our nurses work in rotating shifts to ensure continuous care without any gaps."
+    },
+    "conditions": {
+      "question": "What medical conditions do you provide care for?",
+      "answer": "We provide specialized nursing care for elderly patients, post-surgery recovery, chronic diseases (diabetes, hypertension, COPD), stroke rehabilitation, palliative care, wound care, medication management, and pediatric care. Our nurses are trained to handle various medical equipment and procedures."
+    },
+    "coordination": {
+      "question": "Do you coordinate with doctors and hospitals?",
+      "answer": "Yes, our nurses work closely with your treating doctors and maintain detailed care reports. We coordinate with leading hospitals in Gurgaon and Delhi including Medanta, Fortis, Max Healthcare, and AIIMS for seamless healthcare management."
+    }
+  },
+  "contact": {
+    "title": "Get Started Today",
+    "subtitle": "Contact us to discuss your healthcare needs and get a personalized care plan",
+    "info": {
+      "title": "Contact Information",
+      "phone": {
+        "title": "Phone",
+        "number": "+91-96500 97115",
+        "availability": "Available 24/7"
+      },
+      "email": {
+        "title": "Email",
+        "address": "info@nursingathome.in",
+        "response": "We respond within 2 hours"
+      },
+      "areas": {
+        "title": "Service Areas",
+        "primary": "Gurugram and Delhi",
+        "secondary": "And surrounding areas"
+      }
+    },
+    "emergency": {
+      "title": "Emergency Response",
+      "description": "For urgent medical situations, call our emergency hotline immediately. Our rapid response team will be at your location within 30 minutes."
+    },
+    "form": {
+      "title": "Request a Consultation",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "service": "Service Required",
+      "selectService": "Select a service",
+      "elderlyCare": "Elderly Care",
+      "postSurgery": "Post-Surgery Care",
+      "chronicCare": "Chronic Disease Care",
+      "palliative": "Palliative Care",
+      "pediatric": "Pediatric Care",
+      "emergency": "Emergency Response",
+      "other": "Other",
+      "message": "Additional Details",
+      "messagePlaceholder": "Please describe your specific healthcare needs...",
+      "submit": "Request Free Consultation",
+      "note": "We'll contact you within 2 hours to discuss your needs and arrange a consultation."
+    }
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Don't wait until it's an emergency. Contact us today to discuss your healthcare needs and get a personalized care plan that works for you and your family.",
+    "consultation": "Get Free Consultation",
+    "callNow": "Call Now: +91-96500 97115"
+  },
+  "footer": {
+    "tagline": "Professional healthcare services in the comfort of your home.",
+    "services": "Services",
+    "elderlyCare": "Elderly Care",
+    "postSurgery": "Post-Surgery Care",
+    "chronicCare": "Chronic Disease Care",
+    "palliative": "Palliative Care",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "copyright": "© 2024 NursingAtHome.in. All rights reserved. | Professional Home Healthcare Services"
+  }
+}
