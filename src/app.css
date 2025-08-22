@@ -28,4 +28,16 @@
   .container-custom {
     @apply max-w-7xl mx-auto;
   }
+  
+  .bg-primary-50 {
+    @apply bg-blue-50;
+  }
+  
+  .bg-primary-600 {
+    @apply bg-blue-600;
+  }
+  
+  .text-primary-500 {
+    @apply text-blue-500;
+  }
 }
