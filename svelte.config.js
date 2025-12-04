@@ -19,7 +19,8 @@ const config = {
       strict: false,
     }),
     paths: {
-      base: "/nursing-at-home",
+      // base: "/nursing-at-home",
+      base: "",
     },
     prerender: {
       handleHttpError: ({ path, referrer, message }) => {
