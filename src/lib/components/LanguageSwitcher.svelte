@@ -22,13 +22,13 @@
 </script>
 
 <button
-  class="relative flex items-center bg-gray-200 rounded-full p-1 w-20 h-8 transition-all duration-300 ease-in-out hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+    class="relative flex items-center bg-gray-200 rounded-full p-1 w-20 h-8 transition-all duration-300 ease-in-out hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
   on:click={toggleLanguage}
   aria-label={$currentLocale === 'en' ? 'Switch to Hindi' : 'Switch to English'}
 >
   <!-- Toggle slider -->
   <div
-    class="absolute w-8 h-6 bg-blue-600 rounded-full shadow-md transform transition-transform duration-300 ease-in-out {$currentLocale === 'hi' ? 'translate-x-10' : 'translate-x-0'}"
+    class="absolute w-8 h-6 bg-red-600 rounded-full shadow-md transform transition-transform duration-300 ease-in-out {$currentLocale === 'hi' ? 'translate-x-10' : 'translate-x-0'}"
   ></div>
   
   <!-- Language labels -->
