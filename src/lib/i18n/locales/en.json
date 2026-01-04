@@ -263,10 +263,9 @@
         "address": "info@nursingathome.in",
         "response": "We respond within 2 hours"
       },
-      "areas": {
-        "title": "Service Areas",
-        "primary": "Dehradun",
-        "secondary": "And surrounding areas"
+      "address": {
+        "title": "Address",
+        "full": "House No.303, Rajeev Juyal Marg, Brahamanwala Majra, Dehradun - 248171"
       }
     },
     "emergency": {
@@ -318,6 +317,10 @@
     "oxygenConcentratorRent": "Oxygen Concentrator on Rent",
     "injectionService": "Injection Service at Home",
     "contact": "Contact",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "addressFull": "House No.303, Rajeev Juyal Marg, Brahamanwala Majra, Dehradun - 248171",
     "followUs": "Follow Us",
     "copyright": "© 2024 NursingAtHome.in. All rights reserved. | Professional Home Healthcare Services"
   }

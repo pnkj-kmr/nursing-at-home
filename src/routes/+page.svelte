@@ -13,6 +13,9 @@
       {$t.hero.description}
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
+    <a href="tel:+919211916366" class="btn-secondary text-lg px-8 py-4 hover:bg-white hover:text-red-600 font-semibold rounded-lg transition-colors duration-200 text-lg">
+        {$t.cta.callNow}
+      </a>
       <a href="#contact" class="btn-primary text-lg px-8 py-4">{$t.hero.getStarted}</a>
       <a href="#services" class="btn-secondary text-lg px-8 py-4">{$t.hero.viewServices}</a>
     </div>
@@ -578,9 +581,8 @@
               </svg>
             </div>
             <div>
-              <h4 class="font-semibold text-gray-900">{$t.contact.info.areas.title}</h4>
-              <p class="text-gray-600">{$t.contact.info.areas.primary}</p>
-              <p class="text-gray-600">{$t.contact.info.areas.secondary}</p>
+              <h4 class="font-semibold text-gray-900">{$t.contact.info.address.title}</h4>
+              <p class="text-gray-600 leading-relaxed">{$t.contact.info.address.full}</p>
             </div>
           </div>
         </div>

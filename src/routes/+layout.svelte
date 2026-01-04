@@ -108,9 +108,18 @@
       <div>
         <h4 class="font-semibold mb-4">{$t.footer.contact}</h4>
         <ul class="space-y-2 text-gray-300">
-          <li>📞 +91-9211916366</li>
-          <li>📧 info@nursingathome.in</li>
-          <li>📍 Available 24/7</li>
+          <li class="flex items-start">
+            <span class="mr-2">📞</span>
+            <span>+91-9211916366</span>
+          </li>
+          <li class="flex items-start">
+            <span class="mr-2">📧</span>
+            <span>info@nursingathome.in</span>
+          </li>
+          <li class="flex items-start">
+            <span class="mr-2">📍</span>
+            <span class="leading-relaxed">{$t.footer.addressFull}</span>
+          </li>
         </ul>
       </div>
       
