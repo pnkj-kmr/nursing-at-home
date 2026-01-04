@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Nursing Care at Home in Gurgaon & Delhi | 24/7 Home Healthcare Services | nursingathome.in",
-    "description": "Professional nursing care at home services in Gurgaon and Delhi NCR. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management. Call +91-96500-97115 for immediate assistance.",
-    "keywords": "nursing care at home Gurgaon, home healthcare Delhi, elderly care Gurgaon, post-surgery care Delhi, nursing services NCR, home nurse Delhi, healthcare at home Gurgaon, certified nurses, 24/7 care",
+    "title": "Nursing Care at Home in Dehradun | 24/7 Home Healthcare Services | nursingathome.in",
+    "description": "Professional nursing care at home services in Dehradun. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management. Call +91-9211916366 for immediate assistance.",
+    "keywords": "nursing care at home Dehradun, home healthcare Dehradun, elderly care Dehradun, post-surgery care Dehradun, nursing services Dehradun, home nurse Dehradun, healthcare at home Dehradun, certified nurses, 24/7 care",
     "author": "Nursing at Home",
-    "ogTitle": "Nursing Care at Home in Gurgaon & Delhi - Professional Home Healthcare Services",
-    "ogDescription": "Professional nursing care at home services in Gurgaon and Delhi NCR. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management.",
+    "ogTitle": "Nursing Care at Home in Dehradun - Professional Home Healthcare Services",
+    "ogDescription": "Professional nursing care at home services in Dehradun. Certified nurses, 24/7 elderly care, post-surgery care, chronic disease management.",
     "canonical": "https://nursingathome.in/"
   },
   "nav": {
@@ -18,7 +18,7 @@
   "hero": {
     "title": "Professional Nursing Care",
     "subtitle": "at Your Home",
-    "description": "Get expert nursing care in Gurgaon and Delhi NCR in the comfort of your own home. Our qualified nurses provide 24/7 care, elderly care, post-surgery care, and medical assistance when you need it most.",
+    "description": "Get expert nursing care in Dehradun in the comfort of your own home. Our qualified nurses provide 24/7 care, elderly care, post-surgery care, and medical assistance when you need it most.",
     "getStarted": "Get Started Today",
     "viewServices": "View Services",
     "stats": {
@@ -29,8 +29,8 @@
     }
   },
   "services": {
-    "title": "Our Nursing Services in Gurgaon & Delhi",
-    "subtitle": "Comprehensive healthcare services tailored to meet your specific needs in the comfort of your home across Gurgaon and Delhi NCR",
+    "title": "Our Nursing Services in Dehradun",
+    "subtitle": "Comprehensive healthcare services tailored to meet your specific needs in the comfort of your home across Dehradun",
     "elderlyCare": {
       "title": "Elderly Care",
       "description": "Specialized care for seniors including medication management, personal hygiene, mobility assistance, and companionship to ensure their comfort and well-being.",
@@ -90,6 +90,56 @@
         "Care coordination",
         "Hospital liaison"
       ]
+    },
+    "medicalEquipmentRent": {
+      "title": "Medical Equipment on Rent",
+      "description": "Rent high-quality medical equipment for home healthcare needs. Wide range of equipment available with delivery and setup services.",
+      "features": [
+        "Wide range of medical equipment",
+        "Home delivery and setup",
+        "Maintenance support",
+        "Flexible rental periods"
+      ]
+    },
+    "hospitalBedRent": {
+      "title": "Hospital Bed on Rent",
+      "description": "Comfortable and adjustable hospital beds for home care. Electric and manual beds available with all necessary accessories.",
+      "features": [
+        "Electric and manual beds",
+        "Adjustable height and positions",
+        "Complete with accessories",
+        "Delivery and installation"
+      ]
+    },
+    "wheelchairRent": {
+      "title": "Wheelchair on Rent",
+      "description": "Premium wheelchairs for mobility assistance. Standard and motorized options available with proper maintenance and support.",
+      "features": [
+        "Standard and motorized options",
+        "Lightweight and durable",
+        "Regular maintenance",
+        "Easy rental process"
+      ]
+    },
+    "oxygenConcentratorRent": {
+      "title": "Oxygen Concentrator on Rent",
+      "description": "Reliable oxygen concentrators for respiratory support at home. Medical-grade equipment with 24/7 technical support.",
+      "features": [
+        "Medical-grade concentrators",
+        "24/7 technical support",
+        "Regular maintenance checks",
+        "Emergency replacement service"
+      ]
+    },
+    "injectionService": {
+      "title": "Injection Service at Home",
+      "description": "Professional injection administration services at your home. Certified nurses provide safe and hygienic injection services.",
+      "features": [
+        "Certified nurses",
+        "Safe and hygienic",
+        "All types of injections",
+        "Convenient home service"
+      ]
     }
   },
   "whyChooseUs": {
@@ -121,55 +171,20 @@
     }
   },
   "locations": {
-    "title": "Professional Nursing Care Services in Gurgaon & Delhi NCR",
-    "subtitle": "Trusted by hundreds of families across Gurgaon and Delhi for quality home healthcare services",
-    "gurgaon": {
-      "title": "Serving Gurgaon Areas",
-      "sectors": {
-        "sector14to57": {
-          "title": "Sector 14-57",
-          "description": "Golf Course Road, Cyber Hub, DLF Phase 1-5"
-        },
-        "newGurgaon": {
-          "title": "New Gurgaon",
-          "description": "Sector 58-115, Sohna Road, SPR"
-        },
-        "oldGurgaon": {
-          "title": "Old Gurgaon",
-          "description": "Civil Lines, Jacobpura, Sadar Bazaar"
-        },
-        "manesar": {
-          "title": "Manesar",
-          "description": "IMT Manesar, Sector 1-8"
-        }
-      }
-    },
-    "delhi": {
-      "title": "Serving Delhi NCR Areas",
-      "areas": {
-        "southDelhi": {
-          "title": "South Delhi",
-          "description": "Vasant Kunj, Saket, Greater Kailash"
-        },
-        "westDelhi": {
-          "title": "West Delhi",
-          "description": "Dwarka, Janakpuri, Rajouri Garden"
-        },
-        "centralDelhi": {
-          "title": "Central Delhi",
-          "description": "Connaught Place, Karol Bagh"
-        },
-        "eastDelhi": {
-          "title": "East Delhi",
-          "description": "Laxmi Nagar, Preet Vihar, Mayur Vihar"
-        }
+    "title": "Professional Nursing Care Services in Dehradun",
+    "subtitle": "Trusted by hundreds of families in Dehradun for quality home healthcare services",
+    "dehradun": {
+      "title": "Our Service Location",
+      "address": {
+        "title": "Service Address",
+        "description": "House No.303, Rajeev Juyal Marg, Brahamanwala Majra, Dehradun - 248171"
       }
     },
     "benefits": {
-      "title": "Why Choose Home Nursing Care in Gurgaon & Delhi?",
+      "title": "Why Choose Home Nursing Care in Dehradun?",
       "quickResponse": {
         "title": "Quick Response Time",
-        "description": "Our nurses can reach you within 2-4 hours across Gurgaon and Delhi NCR"
+        "description": "Our nurses can reach you within 2-4 hours across Dehradun"
       },
       "costEffective": {
         "title": "Cost-Effective Care",
@@ -207,9 +222,9 @@
   },
   "faq": {
     "title": "Frequently Asked Questions",
-    "subtitle": "Common questions about our nursing care at home services in Gurgaon and Delhi",
+    "subtitle": "Common questions about our nursing care at home services in Dehradun",
     "cost": {
-      "question": "How much does nursing care at home cost in Gurgaon and Delhi?",
+      "question": "How much does nursing care at home cost in Dehradun?",
       "answer": "Our home nursing care services start from ₹1,500 per day for basic care and ₹2,500 per day for specialized care. This is 50-70% more affordable than hospital stays. We offer flexible pricing plans based on your specific needs and accept most insurance policies."
     },
     "qualifications": {
@@ -217,8 +232,8 @@
       "answer": "All our nurses are BSc/MSc Nursing qualified, registered with the Nursing Council of India, and have minimum 3 years of experience. They undergo regular training in the latest healthcare practices and are background verified for your safety and peace of mind."
     },
     "responseTime": {
-      "question": "How quickly can you provide nursing care in Gurgaon and Delhi?",
-      "answer": "We can provide nursing care within 2-4 hours of your request across Gurgaon and Delhi NCR. For emergency situations, our rapid response team is available 24/7 and can reach you within 1-2 hours depending on your location."
+      "question": "How quickly can you provide nursing care in Dehradun?",
+      "answer": "We can provide nursing care within 2-4 hours of your request across Dehradun. For emergency situations, our rapid response team is available 24/7 and can reach you within 1-2 hours depending on your location."
     },
     "availability": {
       "question": "Do you provide 24/7 nursing care services?",
@@ -230,7 +245,7 @@
     },
     "coordination": {
       "question": "Do you coordinate with doctors and hospitals?",
-      "answer": "Yes, our nurses work closely with your treating doctors and maintain detailed care reports. We coordinate with leading hospitals in Gurgaon and Delhi including Medanta, Fortis, Max Healthcare, and AIIMS for seamless healthcare management."
+      "answer": "Yes, our nurses work closely with your treating doctors and maintain detailed care reports. We coordinate with leading hospitals in Dehradun including Max Hospital, Doon Hospital, Shri Mahant Indiresh Hospital, and other healthcare facilities for seamless healthcare management."
     }
   },
   "contact": {
@@ -240,7 +255,7 @@
       "title": "Contact Information",
       "phone": {
         "title": "Phone",
-        "number": "+91-96500 97115",
+        "number": "+91-9211916366",
         "availability": "Available 24/7"
       },
       "email": {
@@ -250,7 +265,7 @@
       },
       "areas": {
         "title": "Service Areas",
-        "primary": "Gurugram and Delhi",
+        "primary": "Dehradun",
         "secondary": "And surrounding areas"
       }
     },
@@ -272,6 +287,11 @@
       "palliative": "Palliative Care",
       "pediatric": "Pediatric Care",
       "emergency": "Emergency Response",
+      "medicalEquipmentRent": "Medical Equipment on Rent",
+      "hospitalBedRent": "Hospital Bed on Rent",
+      "wheelchairRent": "Wheelchair on Rent",
+      "oxygenConcentratorRent": "Oxygen Concentrator on Rent",
+      "injectionService": "Injection Service at Home",
       "other": "Other",
       "message": "Additional Details",
       "messagePlaceholder": "Please describe your specific healthcare needs...",
@@ -283,7 +303,7 @@
     "title": "Ready to Get Started?",
     "subtitle": "Don't wait until it's an emergency. Contact us today to discuss your healthcare needs and get a personalized care plan that works for you and your family.",
     "consultation": "Get Free Consultation",
-    "callNow": "Call Now: +91-96500 97115"
+    "callNow": "Call Now: +91-9211916366"
   },
   "footer": {
     "tagline": "Professional healthcare services in the comfort of your home.",
@@ -292,6 +312,11 @@
     "postSurgery": "Post-Surgery Care",
     "chronicCare": "Chronic Disease Care",
     "palliative": "Palliative Care",
+    "medicalEquipmentRent": "Medical Equipment on Rent",
+    "hospitalBedRent": "Hospital Bed on Rent",
+    "wheelchairRent": "Wheelchair on Rent",
+    "oxygenConcentratorRent": "Oxygen Concentrator on Rent",
+    "injectionService": "Injection Service at Home",
     "contact": "Contact",
     "followUs": "Follow Us",
     "copyright": "© 2024 NursingAtHome.in. All rights reserved. | Professional Home Healthcare Services"

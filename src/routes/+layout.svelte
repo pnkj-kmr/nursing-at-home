@@ -108,7 +108,7 @@
       <div>
         <h4 class="font-semibold mb-4">{$t.footer.contact}</h4>
         <ul class="space-y-2 text-gray-300">
-          <li>📞 +91-96500 97115</li>
+          <li>📞 +91-9211916366</li>
           <li>📧 info@nursingathome.in</li>
           <li>📍 Available 24/7</li>
         </ul>
